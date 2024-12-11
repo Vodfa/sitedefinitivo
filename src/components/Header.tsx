@@ -14,7 +14,6 @@ export function Header() {
           <h1 className="text-2xl font-bold text-gray-800">Vodfa</h1>
         </div>
         <nav className="flex items-center gap-6">
-          <a href="#about" className="text-gray-600 hover:text-gray-900">Sobre</a>
           <a href="#projects" className="text-gray-600 hover:text-gray-900">Projetos</a>
           <a href="#skills" className="text-gray-600 hover:text-gray-900">Habilidades</a>
           <div className="flex items-center gap-4">
