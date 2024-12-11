@@ -7,7 +7,7 @@ export function Header() {
       <div className="container mx-auto px-4 py-3 flex justify-between items-center">
         <div className="flex items-center gap-2">
           <img
-            src="https://i.imgur.com/3zs4AW4.png" // Substitua pelo link da sua imagem
+            src="https://i.imgur.com/oD2SuCf.png" // Substitua pelo link da sua imagem
             alt="Logo"
             className="h-12 w-13"
           />
