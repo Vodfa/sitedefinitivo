@@ -14,7 +14,7 @@ Este é meu portfólio profissional, desenvolvido com React e Tailwind CSS.
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/vodfa/portfolio
+git clone https://github.com/vodfa/sitedefinitivo
 ```
 
 2. Instale as dependências:
